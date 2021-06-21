@@ -22,6 +22,7 @@ A video tutorial on how to install the pack can be found here. https://youtu.be/
 
 + SEUS PTGI (https://www.patreon.com/sonicether) - *Set Texture Resolution to 128 in Shader Options. For the best experience, we recommend turning on Full Raytrace Reflections in Raytracing Options. In Surface Options, turn on Physically Based Max Roughness*
 + Continuum RT (https://continuum.graphics/store/) - *Use the Focal Engine version of Continuum RT*
++ Continuum 2.1 (https://continuum.graphics/store/) - *No modifications of settings required*
 + BSL Shaders (https://www.curseforge.com/minecraft/customization/bsl-shaders) - *Make sure to set Advanced Materials to ON in the shader by going to Video Settings > Shaders > Shader Options > Material > Advanced Materials: ON*
 
 ## Connect with Compbuild
