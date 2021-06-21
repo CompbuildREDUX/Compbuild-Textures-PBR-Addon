@@ -16,7 +16,7 @@ Compbuild Textures includes an optional downloadable PBR addon which includes PB
 ![image](https://user-images.githubusercontent.com/59810988/122631840-3e117200-d094-11eb-8994-44527443b8d1.png)
 
 
-A video tutorial on how to install the pack can be found here. https://youtu.be/ZaEhX5pRWdE
+Installing the addon is very similar to installing the main pack, all you need to do is place the addon over the main pack.
 
 ## Recommended Shaders
 
