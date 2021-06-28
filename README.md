@@ -11,7 +11,7 @@ Compbuild Textures includes an optional downloadable PBR addon which includes PB
 1. Install Compbuild Textures
 2. Install the PBR addon
 3. Once you've installed the PBR addon, put it in `AppData\Roaming\.minecraft\resourcepacks`
-4. To enable the addon, place the addon over Compbuild Textures. An image is shown
+4. To enable the addon, place the addon over Compbuild Textures. An image is shown below.
 
 ![image](https://user-images.githubusercontent.com/59810988/123563902-d981a180-d77c-11eb-9200-3d8509b9f53a.png)
 
