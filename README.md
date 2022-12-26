@@ -31,5 +31,5 @@ Compbuild Textures includes an optional downloadable PBR addon which includes PB
 Want to stay anticipated for updates? Compbuild also has social media to connect with! Catch up with the latest updates and news on our Discord server, and follow us on Instagram!
 
 + Instagram (https://www.instagram.com/compbuildredux/)
-+ Twitter (https://twitter.com/compbuildredux)
++ Twitter (https://twitter.com/compbuild_redux)
 + Discord (https://discord.gg/Kw7stMa)
