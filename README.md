@@ -1,3 +1,7 @@
+# Development has halted as of 2023
+
+## We have plans for a PBR & POM texture mapping addon that will entirely overhaul the current PBR addon. 
+
 # Compbuild Textures PBR Addon
 
 Compbuild Textures includes an optional downloadable PBR addon which includes PBR textures for some of the blocks in the main texture pack. 
