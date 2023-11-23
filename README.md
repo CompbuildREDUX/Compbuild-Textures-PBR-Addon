@@ -1,6 +1,6 @@
 # Development has halted as of 2023
 
-## We have plans for a PBR & POM texture mapping addon that will entirely overhaul the current PBR addon. 
+## ⚠️ We have plans for a PBR & POM texture mapping addon that will entirely overhaul the current PBR addon. Stay tuned for 2024!
 
 # Compbuild Textures PBR Addon
 
