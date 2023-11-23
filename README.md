@@ -1,4 +1,4 @@
-# Development has halted as of 2023
+# Development halted as of 2023
 
 ## ⚠️ We have plans for a PBR & POM texture mapping addon that will entirely overhaul the current PBR addon. The latest PBR Addon version will only work for Compbuild Textures v5.0.3 on 1.18.1. Stay tuned for 2024 for a overhauled PBR addon that will work on the latest version of Compbuild Textures!
 
